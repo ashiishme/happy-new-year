@@ -31,8 +31,8 @@ Feel free to to improve this project and create an issue or send PR.
  
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 Thank you for using checking this project. If you love this project give it a star.
+
+[![GitHub stars](https://img.shields.io/github/stars/ashiishme/happy-new-year)](https://github.com/ashiishme/happy-new-year/stargazers)
