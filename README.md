@@ -13,12 +13,8 @@ This project demonstrates the use of React Hooks with Canvas with the stateless 
 ## Table Of Contents
  - [Installation](#installation)
  - [Demo](#demo)
- - [Tests](#tests)
- - [Author](#author)
- - [Contributors](#contributors)
  - [Contribution](#contribution)
  - [License](#license)
- - [Additional Details / References](#additional-details--references)
  - [Changelog](#changelog)
  
 ## Installation
@@ -35,13 +31,7 @@ You can `fork` the project.
  
 ## Demo
  
-## Author
-
-**Author Name** &nbsp; : &nbsp; Ashish Yadav <br>
-**Author URI** &nbsp; &nbsp; &nbsp; : &nbsp; [www.ashiish.me](https://www.ashiish.me) <br>
-**GitHub URI** &nbsp; &nbsp; &nbsp; : &nbsp; [ashiishme](https://github.com/ashiishme)
- 
-## Contributors
+## Contribution
 
 Feel free to to improve this project and create an issue or send PR.
  
@@ -53,7 +43,6 @@ Feel free to to improve this project and create an issue or send PR.
 ## Changelog
 
 [CHANGELOG.md](CHANGELOG.md)
-
 
 ---
 
