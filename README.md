@@ -23,7 +23,7 @@ You can `fork` the project.
  
 ## Demo
 
-[![Happy New Year Demo](https://img.youtube.com/vi/SBOpTmtspDQ/0.jpg)](https://www.youtube.com/watch?v=SBOpTmtspDQ)
+[![Happy New Year Demo](http://i3.ytimg.com/vi/SBOpTmtspDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=SBOpTmtspDQ)
  
 ## Contribution
 
