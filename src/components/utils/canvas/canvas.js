@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, createContext, useContext } from "react";
+import React, { useEffect, useRef, useState, createContext, useContext, useCallback } from "react";
 import Particles from '../../particles/particles';
 import Nepal from '../../map/map';
 
@@ -9,10 +9,10 @@ const useResponsiveSize = () => {
 	const [width, setWidth] = useState(0);
 	const [height, setHeight] = useState(0);
 
-	const setSizes = () => {
+	const setSizes = useCallback(() => {
 		setWidth(window.innerWidth);
 		setHeight(window.innerHeight);
-	}
+	});
 
 	useEffect(() => {
 		window.addEventListener('resize', setSizes);
