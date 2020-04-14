@@ -20,6 +20,9 @@ yarn install
 OR 
 
 You can `fork` the project.
+
+[![GitHub forks](https://img.shields.io/github/forks/ashiishme/happy-new-year)](https://github.com/ashiishme/happy-new-year/network)
+
  
 ## Demo
 
@@ -30,6 +33,8 @@ You can `fork` the project.
 Feel free to to improve this project and create an issue or send PR.
  
 ## License
+
+[![GitHub license](https://img.shields.io/github/license/ashiishme/happy-new-year?color=blue&logo=mit)](https://github.com/ashiishme/happy-new-year/blob/NP-2077/LICENSE)
 
 ---
 
