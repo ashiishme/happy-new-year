@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://www.ashiish.me">
-        <img src="ashiish-icon.png" align="center" alt="ashiish-icon"/>
-    </a>
-</p>
 <h1 align="center" style="border: 0;"> Happy New Year </h1>
 
 Happy New Year is a react based animation project. The project includes the pixel manipulation of a image that re-draw the map of Nepal pixel by pixel while the particles are moving randomly around.
@@ -15,7 +10,6 @@ This project demonstrates the use of React Hooks with Canvas with the stateless 
  - [Demo](#demo)
  - [Contribution](#contribution)
  - [License](#license)
- - [Changelog](#changelog)
  
 ## Installation
 
@@ -26,10 +20,10 @@ yarn install
 OR 
 
 You can `fork` the project.
-
-[![fork this repo](http://githubbadges.com/fork.svg?user=ashiishme&repo=happy-new-year&style=flat&color=fff&background=da644e)](https://github.com/ashiishme/happy-new-year/fork)
  
 ## Demo
+
+[![Happy New Year Demo](https://img.youtube.com/vi/SBOpTmtspDQ/0.jpg)](https://www.youtube.com/watch?v=SBOpTmtspDQ)
  
 ## Contribution
 
@@ -39,13 +33,6 @@ Feel free to to improve this project and create an issue or send PR.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
- 
-## Changelog
-
-[CHANGELOG.md](CHANGELOG.md)
-
 ---
 
 Thank you for using checking this project. If you love this project give it a star.
-
-[![star this repo](http://githubbadges.com/star.svg?user=ashiishme&repo=happy-new-year&style=flat&color=fff&background=da644e)](https://github.com/ashiishme/happy-new-year)
