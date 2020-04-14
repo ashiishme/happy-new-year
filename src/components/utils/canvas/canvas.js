@@ -12,7 +12,7 @@ const useResponsiveSize = () => {
 	const setSizes = useCallback(() => {
 		setWidth(window.innerWidth);
 		setHeight(window.innerHeight);
-	});
+	}, [setWidth, setHeight]);
 
 	useEffect(() => {
 		window.addEventListener('resize', setSizes);

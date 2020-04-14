@@ -17,7 +17,7 @@ const Layout = () => {
 				<p className="github-text">
 					<a href="https://github.com/ashiishme" target="_blank" rel="noopener noreferrer">
 						<span>Follow me</span> 
-						<img className="github-icon" src={ GithubIcon }/>
+						<img className="github-icon" src={ GithubIcon } alt="github-icon"/>
 					</a>
 				</p>
 			</div>
