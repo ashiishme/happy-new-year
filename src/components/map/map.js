@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, createContext, useCallback } from "react";
+import { useCallback } from "react";
 import { useMapReference } from "../utils/canvas/canvas";
 import NepalMap from '../../assets/images/nepal.png';
 
@@ -49,6 +49,7 @@ const Nepal = () => {
 			particles.splice(index, 1);
 		}
 	}, [context]);
+
 	if(context) render();
 	return null;
 }

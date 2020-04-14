@@ -1,4 +1,3 @@
-import React, { useEffect, useRef, useState, createContext, useCallback } from "react";
 import { useParticlesReference } from "../utils/canvas/canvas";
 
 const generateParticles = (width, height) => {
