@@ -1,7 +1,7 @@
 {
   "name": "happy-new-year",
   "version": "0.1.0",
-  "homepage": "https://ashiishme.github.io/happy-new-year/",
+  "homepage": "https://ashiishme.github.io",
   "private": true,
   "scripts": {
     "dev": "next dev",
