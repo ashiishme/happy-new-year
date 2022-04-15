@@ -14,8 +14,8 @@ export default class Firework {
     this.color = color
     this.state = 'fly'
     this.lifeSpan = 220
-    this.sound = new Audio('/mp3/firework-whistle.mp3')
-    this.crackSound = new Audio('/mp3/firework-crack.mp3')
+    this.sound = new Audio('/happy-new-year/mp3/firework-whistle.mp3')
+    this.crackSound = new Audio('/happy-new-year/mp3/firework-crack.mp3')
   }
 
   public draw(context: CanvasRenderingContext2D) {
