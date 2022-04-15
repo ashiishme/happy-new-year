@@ -1,43 +1,34 @@
-<h1 align="center" style="border: 0;"> Happy New Year </h1>
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Happy New Year is a react based animation project. The project includes the pixel manipulation of a image that re-draw the map of Nepal pixel by pixel while the particles are moving randomly around.
+## Getting Started
 
-This project demonstrates the use of React Hooks with Canvas with the stateless compoenents.
+First, run the development server:
 
-
-## Table Of Contents
- - [Installation](#installation)
- - [Demo](#demo)
- - [Contribution](#contribution)
- - [License](#license)
- 
-## Installation
-
+```bash
+npm run dev
+# or
+yarn dev
 ```
-git clone https://github.com/ashiishme/happy-new-year.git
-yarn install
-```
-OR 
 
-You can `fork` the project.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-[![GitHub forks](https://img.shields.io/github/forks/ashiishme/happy-new-year)](https://github.com/ashiishme/happy-new-year/network)
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
- 
-## Demo
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-[![Happy New Year Demo](http://i3.ytimg.com/vi/SBOpTmtspDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=SBOpTmtspDQ)
- 
-## Contribution
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-Feel free to to improve this project and create an issue or send PR.
- 
-## License
+## Learn More
 
-[![GitHub license](https://img.shields.io/github/license/ashiishme/happy-new-year?color=blue&logo=mit)](https://github.com/ashiishme/happy-new-year/blob/NP-2077/LICENSE)
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Thank you for using checking this project. If you love this project give it a star.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-[![GitHub stars](https://img.shields.io/github/stars/ashiishme/happy-new-year)](https://github.com/ashiishme/happy-new-year/stargazers)
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

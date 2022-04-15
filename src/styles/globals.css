@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&family=Playfair+Display:wght@800&family=Source+Sans+Pro&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#__next,
+#__next > div {
+  height: 100%;
+}
+
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
