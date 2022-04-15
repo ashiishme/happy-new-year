@@ -13,7 +13,9 @@ jobs:
           persist-credentials: false
 
       - name: Install and Build
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3\
+        with:
+          node-version: '14'
       - run: |
           yarn
           yarn build
